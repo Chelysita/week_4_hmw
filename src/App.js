@@ -13,6 +13,11 @@ function App() {
 
         <WeatherSearch />
       </header>
+      <foot>
+        <a href="https://github.com/Chelysita/week_4_hmw.git">
+          Code shared on Github
+        </a>
+      </foot>
     </div>
   );
 }
