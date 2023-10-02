@@ -23,6 +23,11 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+a {
+  color: rgb(35, 233, 230);
+  text-decoration: dotted;
+  margin-top: 50px;
+}
 
 .App-link {
   color: #61dafb;
